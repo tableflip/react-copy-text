@@ -1,6 +1,6 @@
 {
   "name": "react-copy-text",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Copy text to the clipboard like it's 1999",
   "main": "lib/CopyText.js",
   "scripts": {
