@@ -52,5 +52,17 @@
       "babel-register"
     ],
     "babel": "inherit"
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tableflip/react-copy-text.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tableflip/react-copy-text/issues"
+  },
+  "homepage": "https://github.com/tableflip/react-copy-text#readme"
 }
