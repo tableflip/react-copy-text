@@ -51,7 +51,7 @@ test('should call onCopied after copy', (t) => {
 
   const onCopied = (arg) => {
     onCopied.called = true
-    execCommand.calledWith = (calledWithArg) => calledWithArg === arg
+    onCopied.calledWith = (calledWithArg) => calledWithArg === arg
   }
 
   const wrapper = mount(<CopyText />)
