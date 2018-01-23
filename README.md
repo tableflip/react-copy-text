@@ -51,6 +51,14 @@ Type: `PropTypes.func`
 
 Callback function called after the text has been copied to the clipboard. Passed the text that was copied.
 
+## Contribute
+
+Feel free to dive in! [Open an issue](https://github.com/tableflip/react-copy-text/issues/new) or submit PRs.
+
+## License
+
+[MIT](LICENSE) © Alan Shaw
+
 ---
 
 A [(╯°□°）╯︵TABLEFLIP](https://tableflip.io) side project.
